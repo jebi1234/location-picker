@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationPicker</string>
+    <string name="open_place_picker">Open Map</string>
+</resources>
